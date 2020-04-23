@@ -30,3 +30,4 @@
 
 + Install: **pip install droopescan**
 + Run: **droopescan scan -u** {{URL}}
++ Source: https://github.com/droope/droopescan
