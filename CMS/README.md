@@ -12,6 +12,8 @@
 + Run: **wpscan**
 + Source: https://github.com/wpscanteam/wpscan
 
+---
+
 # Tools you can use to test Magento
 
 ### Mage Scan
@@ -23,6 +25,8 @@
 ### MageReport
 
 + Run: https://www.magereport.com/scan/?s={{URL}}
+
+---
 
 # Tools you can use to test Multiple CMS
 
