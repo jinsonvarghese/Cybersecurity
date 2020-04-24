@@ -28,6 +28,16 @@
 
 ---
 
+# Tools you can use to test Joomla
+
+### JoomScan
+
++ Download: **git clone https://github.com/rezasp/joomscan.git**
++ Run: **cd joomscan && perl joomscan.pl**
++ Source: https://github.com/rezasp/joomscan
+
+---
+
 # Tools you can use to test Multiple CMS
 
 ### Droopescan
