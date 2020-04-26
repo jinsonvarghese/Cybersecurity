@@ -8,6 +8,7 @@
 * [Official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/) - `docker pull wpscanteam/wpscan`.
 * [Security Ninjas](https://hub.docker.com/r/opendns/security-ninjas/) - `docker pull opendns/security-ninjas`.
 * [docker-metasploit](https://hub.docker.com/r/phocean/msf/) - `docker pull phocean/msf`.
+* [VAPT Toolkit](https://hub.docker.com/r/jinsonvarghese/vapt) - `docker pull jinsonvarghese/vapt`.
 
 ### Intentionally Vulnerable Systems
 
