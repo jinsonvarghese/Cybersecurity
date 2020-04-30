@@ -19,7 +19,7 @@ Scans include checks for missing HTTP security headers, subdomains, ssl issues, 
 # Tips
 
 + After the initial setup, save time by setting up aliases to run the docker image or start/attach container.
-+ For those unfamiliar, to restart and enter the toolkit's base terminal on a stopped container, run `docker start {{CONTAINER ID}} && docker attach {{CONTAINER ID}}`.
++ For those unfamiliar, to restart and enter the toolkit's base terminal on a stopped container, run `docker start --attach {{CONTAINER ID}}`.
 
 # Report bugs
 
