@@ -5,7 +5,7 @@ https://hub.docker.com/r/jinsonvarghese/vapt
 
 # What it does currently
 
-Scans include checks for missing HTTP security headers, subdomains, ssl issues, port scans, service vulnerabilities, etc. by leveraging popular tools like Nikto, Nmap, TestSSL and others. 
+Scans include checks for missing HTTP security headers, subdomains, SSL issues, port scans, service vulnerabilities, etc. by leveraging popular tools like Nikto, Nmap, TestSSL and others. 
 
 + More tools will be added in the future.
 + This toolkit can be set up using Docker on Linux or MacOS.
