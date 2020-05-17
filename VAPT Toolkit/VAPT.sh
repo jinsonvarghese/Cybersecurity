@@ -100,12 +100,12 @@ echo "==========================================================================
 echo ""
 echo "Checking Subdomains:"
 echo ""
-python3 ${HOME}/Tools/Sublist3r/sublist3r.py -d $url
+amass enum -d $url
 echo ""
 echo "==========================================================================="
 echo ""
 echo "Running SSL Tests:"
-${HOME}/Tools/testssl.sh/testssl.sh $url
+testssl.sh $url
 echo ""
 echo "==========================================================================="
 echo ""
