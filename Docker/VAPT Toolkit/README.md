@@ -8,7 +8,7 @@ https://hub.docker.com/r/jinsonvarghese/vapt
 Scans include checks for missing HTTP security headers, subdomains, SSL issues, port scans, service vulnerabilities, etc. by leveraging popular tools like Nikto, Nmap, TestSSL and others. 
 
 + More tools will be added in the future.
-+ This toolkit can be set up using Docker on Linux or MacOS.
++ This toolkit can also be installed on macOS via Homebrew. More information can be found at https://www.jinsonvarghese.com/vapt-toolkit/.
 
 # Steps to set it up
 
